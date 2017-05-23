@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string-array name="drawer_items">
+        <item>Чаты</item>
+        <item>Пользователи</item>
+        <item>Настройки аккаунта</item>
+        <item>Настройки</item>
+        <item>Выход</item>
+    </string-array>
+</resources>
